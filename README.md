@@ -6,4 +6,4 @@ Share some practical experiences of tax-invoice-digitalization in Chinese Enterp
 - ERP
 - 项目经验
 
-希望这些经验能够帮助更多的人。
+希望这些经验对你有帮助
